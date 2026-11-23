@@ -2,10 +2,9 @@
 
 **`Estudante de Desenvolvimento Web`**
 
-Me chamo Gabriela Briekowiec, tenho 18 anos e sou apaixonada por tecnologia e desenvolvimento de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade UMFG e também no SENAI. Além da formação acadêmica, participo do curso de desenvolvimento web proporcionado pela Greenn e busco constantemente aprimorar minhas habilidades de forma autônoma através de cursos em plataformas como o Coursera, focando na criação e estruturação de projetos para a web. Você pode acompanhar minha trajetória e projetos através do meu perfil do "[LinkedIn](www.linkedin.com/in/gabriela-briekowiec-6a41a5323)".
+Me chamo Gabriela Briekowiec, tenho 18 anos e sou apaixonada por tecnologia e desenvolvimento de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade UMFG e também no SENAI. Além da formação acadêmica, participo do curso de desenvolvimento web proporcionado pela Greenn e busco constantemente aprimorar minhas habilidades de forma autônoma através de cursos em plataformas como o Coursera, focando na criação e estruturação de projetos para a web. Você pode acompanhar minha trajetória e projetos através do meu perfil do [LinkedIn](https://www.linkedin.com/in/gabriela-briekowiec-6a41a5323).
 
 ### 🖥️ Tecnologias
-
 
 <img 
     align="left"
@@ -17,85 +16,78 @@ Me chamo Gabriela Briekowiec, tenho 18 anos e sou apaixonada por tecnologia e de
 
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="CSS"
+    title="CSS"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
 
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="Java"
+    title="Java"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          
 
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="JavaScript"
+    title="JavaScript"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="Bootstrap"
+    title="Bootstrap"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
-
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="PHP"
+    title="PHP"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-          
 
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="Git"
+    title="Git"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="MySQL"
+    title="MySQL"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-          
-                   
- <br/>
- <br/>
 
- ### 📊 Estatísticas     
+<br/>
+<br/>
+
+### 📊 Estatísticas     
 <p>
 
 <img
     align="left"
-    alt="GitHub Stats"
+    alt="Top Linguagens"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=gabrielabriekowiec-maker&layout=donut-vertical&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=gabrielabriekowiec-maker&layout=donut-vertical&langs_count=4&theme=transparent" />
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=gabrielabriekowiec-maker&layout=donut-vertical&langs_count=4&theme=transparent" />
 
 <img
     align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-stats-extended.vercel.app/api?username=gabrielabriekowiec-maker&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=gabrielabriekowiec-maker&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" />
+    src="https://github-stats-extended.vercel.app/api?username=gabrielabriekowiec-maker&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" />
 
 </p>
